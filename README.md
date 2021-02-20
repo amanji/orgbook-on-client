@@ -28,7 +28,6 @@ With the application running, you can develop against any running Aries VCR inst
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-
 ## Contributing
 
 **Pull requests are always welcome!**
