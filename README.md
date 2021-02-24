@@ -22,7 +22,7 @@ ng serve
 
 ## Development
 
-With the application running, you can develop against any running Aries VCR instance by configuring the `API_URL` setting in `./src/assets/config.json`. The configuration is not set to point to any specific instance of Aries VCR by default, however you can change this setting at anytime, even while the application is running.
+With the application running, you can develop against any running Aries VCR instance by configuring the `API_URL` setting in `./src/assets/config.json`. The configuration is not set to your locally running instance of Aries VCR by default, however you can change this setting at anytime, even while the application is running.
 
 ## Further help
 
