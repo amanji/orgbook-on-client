@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![img](https://img.shields.io/badge/Lifecycle-Experimental-339999)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  [![Lifecycle:Retired](https://img.shields.io/badge/Lifecycle-Retired-d45500)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
 
 # Orgbook ON Client
 
@@ -8,17 +8,17 @@ This application implements a user interface (built with Angular) specifically f
 
 _Note: The following sections on [Running](#running) and [Development](#development) assume that you already have a locally running instance of Aries-VCR. Please see the instructions [here](https://github.com/bcgov/aries-vcr/tree/main/docs) for running Aries-VCR locally with docker._
 
-## Running 
+## Running
 
 Running the web application is easiest with docker. Navigate to the `docker/` folder run the following in a terminal:
 
-``` 
+```
 ./manage build
-``` 
+```
 
 followed by
 
-``` 
+```
 ./manage start
 ```
 
